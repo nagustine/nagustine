@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hi,%20I'm%20Yaya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Student%20%7C%20Mobile%20%26%20Web%20Developer%20%7C%20UI%2FUX%20Enthusiast&descSize=16&descAlignY=60" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hi%20I%20am%20Yaya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Student%20-%20Mobile%20and%20Web%20Developer&descSize=18&descAlignY=60" alt="header" />
 </p>
+
 
 <p align="center">
   <a href="https://deaaprianiagustin-portofolio.web.app/">
@@ -79,8 +80,13 @@
   <img src="https://streak-stats.demolab.com?user=nagustine&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
+## 🌱 Currently Exploring
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nagustine&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 </p>
 
 ---
