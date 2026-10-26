@@ -15,13 +15,13 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🎓 Informatics student yang suka belajar hal baru di dunia teknologi dan programming
-- 🚀 Semua project-ku ada di **[Portfolio Website](https://deaaprianiagustin-portofolio.web.app/)**
-- 💬 Ask me about **My Project, Student Life, and Learning Journey**
-- 📫 Reach me at **[deayyaa16@gmail.com](mailto:deayyaa16@gmail.com)**
-- ⚡ Fun fact: **I love combining creativity, design, and technology!**
+- Informatics student yang suka belajar hal baru di dunia teknologi dan programming
+- Semua project-ku ada di **[Portfolio Website](https://deaaprianiagustin-portofolio.web.app/)**
+- Ask me about **My Project, Student Life, and Learning Journey**
+- Reach me at **[deayyaa16@gmail.com](mailto:deayyaa16@gmail.com)**
+- Fun fact: **I love combining creativity, design, and technology!**
 
 <p align="center">
   <a href="https://deaaprianiagustin-portofolio.web.app/">
@@ -31,7 +31,7 @@
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dea-apriani-agustin-02868536b" target="_blank">
@@ -47,7 +47,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="45" height="45"/></a>
@@ -69,7 +69,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=nagustine&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub stats" />
@@ -80,7 +80,7 @@
   <img src="https://streak-stats.demolab.com?user=nagustine&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
